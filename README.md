@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edujr92
-- 👀 I’m interested in web design & software development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+
+
 
 
 <!---
